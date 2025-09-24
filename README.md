@@ -1,20 +1,18 @@
-# Electro EVs Generator
+# Nepox Account Generator
 
 - Setup guide
 
 - run `pip install -r requirements.txt`
-- after installation in config.json add your domain
 - then run `python main.py`
 
 # Output
 
-- output/accounts.txt saves email:pass:token
-- output/itok.txt saves inbox tokens
-- output/tokens.txt saves evs tokens
+- output/saved.txt saves email:pass:token
+
 
 # Credits
 
-- Owners - `electro.me`, `g0a4`
-- Server - /furiousmart
-- Version - V2
-- Socials: Discord - `g0a4` email - `contact@electroo.space`
+- Owners - `NEPOX CORPORATION`, `nepoxxgod`
+- Server - https://discord.gg/nepox
+- Version - V3
+- Socials: Discord - `nepoxxgod` email - `nepoxcorporation@gmail.com`
